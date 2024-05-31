@@ -13,7 +13,7 @@ YouTube Playlist Downloader is a simple PyQt5 application that allows users to d
 
 ## Requirements 📋
 
-- Python 3.x
+- Python 3.7
 - PyQt5
 - pytube
 
@@ -63,9 +63,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Feedback 📧
 
-If you have any suggestions, feature requests, or bug reports, feel free to open an issue or contact [me](https://github.com/wasimtikki120).
-
-## License 📄
-
-This project is licensed under the [MIT License](License.md).
-
+If you have any suggestions, feature requests, or bug reports, feel free to open an issue or contact [me](https://www.linkedin.com/in/mohammad-wasim-tikki/).
